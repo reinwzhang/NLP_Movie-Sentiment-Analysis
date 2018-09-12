@@ -16,6 +16,5 @@
 ## Description:
   1. MovieSenti_NB_LR_SVM.py
       Presented with ML models as Naive Bayes, Linear Support Vector Machine, Logistic Regression and MLPClassifier for input comments tokenized with TF-IDF.
-  
-### MovieSenti_NLP_solution.py
-  2. Presented with a couple RNN model to fit input comments tokenized with Keras Preprocessing and Word2Vec with Stanford GloVe Dict.
+  2. MovieSenti_NLP_solution.py
+      Presented with a couple RNN model to fit input comments tokenized with Keras Preprocessing and Word2Vec with Stanford GloVe Dict.
